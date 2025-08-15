@@ -7,14 +7,14 @@ assignees: pkINOVIA
 
 ---
 
-As a [role],
-I want [an action or feature],
-So that [a reason or benefit].
+** As a ** [role],
+** I want ** [an action or feature],
+** So that ** [a reason or benefit].
 
-Acceptance Criteria:
+** Acceptance Criteria **
 - [ ] Criterion 1
 - [ ] Criterion 2
 
-Definition of Done:
+** Definition of Done **
 - [ ] Criteria met
 - [ ] Implementation tickets created and assigned

@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-Description:
+** Description **
 (Brief summary of what this Epic is and its purpose)
 
-User Stories:
+** User Stories **
 (List user stories that belong to this Epic as a link to User Story issue)
 
-Acceptance Criteria:
+** Acceptance Criteria **
 (How will we measure success? List quantifiable metrics or key outcomes to judge completion.)
-- Criterion 1: All User Stories are done
-- Criterion 2: ...
+- [ ] All User Stories are done
+- [ ] ...
